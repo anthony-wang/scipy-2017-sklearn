@@ -1,7 +1,13 @@
 SciPy 2016 Scikit-learn Tutorial
 ================================
 
-YouTube recording: https://www.youtube.com/watch?v=2kT6QOVSgSg
+YouTube recordings
+-----------
+
+Part 1: https://www.youtube.com/watch?v=2kT6QOVSgSg
+
+Part 2: https://www.youtube.com/watch?v=WLYzSas511I
+
 
 Instructors
 -----------
